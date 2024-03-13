@@ -1,0 +1,45 @@
+div{
+    font-size: large;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    width: 380px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px auto;
+    margin-top: 100px;
+    gap: 5%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+select{
+    width: 350px;
+    height:30px;
+    background-color: lightgray;
+    border: 1px solid black;
+}
+
+input{
+    width: 350px;
+    height:30px;
+    background-color: lightgray;
+    border: 1px solid black;
+}
+
+button{
+    height:30px;
+    width: 300px;
+    background-color: darkgrey;
+    color: black;
+    border: 1px solid black;
+}
